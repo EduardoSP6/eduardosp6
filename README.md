@@ -3,8 +3,7 @@
 Full Stack Web and Mobile Developer
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardosp6/)](https://www.linkedin.com/in/eduardosp6/)
-
-[![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardo.sp6@gmail.com)](eduardo.sp6@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-eduardo.sp6@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardo.sp6@gmail.com)](eduardo.sp6@gmail.com)
 
 ### About me
 
