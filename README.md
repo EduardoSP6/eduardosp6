@@ -7,7 +7,11 @@ Full Stack Web and Mobile Developer
 
 ### About me
 
-I'm a Full Stack and Android developer at [Road System](https://roadsystem.com.br) 
+I am passionate about technology and I work professionally with software development since 2013, always applying good programming practices. I'm always looking for new knowledge, growth and professional recognition.
+
+My contact with technology started early on, fixing electronics and developing personal projects in my teens and then performing maintenance on computers where I worked professionally for 5 years. Later I became interested in software development because I wanted applications that didn't exist at the time, so I specialized through a technical course in Mechatronics where I studied everything I like the most, which is electronics and programming (hardware and software). And in 2013 I started working professionally as a developer and I never stopped. Today my goal is to help companies through technologies, developing software that impact and transform any company, converting to digital.
+
+Nowadays I'm a Full Stack and Android developer at [Road System](https://roadsystem.com.br) 
 
 
 
