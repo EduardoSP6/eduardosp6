@@ -1,4 +1,4 @@
-# Eduardo Sales
+# Eduardo P. Sales
 
 Full Stack Web and Mobile Developer
 
@@ -31,6 +31,25 @@ Adaptive profile the routines corresponding to the function performed.
 
 Adept at exchanging knowledge and good relationship with team members.
 
+### Technologies I've had contact with:
+
+Back-end: 
+PHP (With Laravel), Node, NextJS, Java (With Spring Boot MVC), Queue Jobs, RabbitMQ, Redis, Laravel Telescope, Papertrail, Sentry, PHPUnit, Docker, Jenkins, Bitbucket, Git, Git Flow, Jira, Elasticsearch;
+
+Front-end: 
+HTML5, CSS3, Sass, Styled Components, Webpack, Javascript, JQuery, Typescript, React JS, Blade, Vue, Timeleaf, Jest, NPM, Yarn, Leaflet Maps;
+
+Mobile: 
+Android Nativo (Java), React Native;
+
+Databases: 
+Mysql, Mariadb, Postgres, SQL Server, MogoDB, Realm DB;
+
+Design patterns: POO, SOLID, Domain Driven Design, TDD, MVC, MVVM, Dependency Injection, Abstract Factory, Adapter, Builder, Facade, Singleton, Factory Method;
+
+Knowledge of microservices architecture;
+
+Security standards OWASP;
 
 <!--
 **EduardoSP6/eduardosp6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
