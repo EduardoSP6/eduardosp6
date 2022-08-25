@@ -49,7 +49,7 @@ Design patterns: POO, SOLID, Domain Driven Design, TDD, MVC, MVVM, Dependency In
 
 Knowledge of microservices architecture;
 
-Security standards OWASP;
+OWASP Security standards;
 
 <!--
 **EduardoSP6/eduardosp6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
