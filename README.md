@@ -13,7 +13,7 @@ My contact with technology started early on, fixing electronics and developing p
 
 Today my goal is to help companies through technologies, developing software that impact and transform any company, converting to digital.
 
-Nowadays I'm a PHP Backend Developer Senior at [Select Afiliados](https://selectafiliados.com.br). 
+Nowadays I'm a PHP Backend Developer. 
 
 ### Skills
 
@@ -50,6 +50,8 @@ Design patterns: POO, SOLID, Domain Driven Design, TDD, MVC, MVVM, Dependency In
 Knowledge of microservices architecture;
 
 OWASP Security standards;
+
+[Earn $200 on Digital Ocean](https://m.do.co/c/d220028bf161)
 
 <!--
 **EduardoSP6/eduardosp6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
