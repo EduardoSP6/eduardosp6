@@ -33,23 +33,39 @@ Adept at exchanging knowledge and good relationship with team members.
 
 ### Technologies I've had contact with:
 
+Code versioning:
+Git, Github, Bitbucket, Gitflow;
+
+Cloud:
+Docker, Kubernetes, Jenkins, GCloud, AWS, Digital Ocean;
+
 Back-end: 
-PHP (With Laravel), Node, NextJS, Java (With Spring Boot MVC), Queue Jobs, RabbitMQ, Redis, Laravel Telescope, Papertrail, Sentry, PHPUnit, Docker, Jenkins, Bitbucket, Git, Git Flow, Jira, Elasticsearch;
+PHP 8.x with Laravel, Node, React 18.x with NextJS, Java with Spring Boot MVC, Redis, Elasticsearch;
 
 Front-end: 
-HTML5, CSS3, Sass, Styled Components, Webpack, Javascript, JQuery, Typescript, React JS, Blade, Vue, Timeleaf, Jest, NPM, Yarn, Leaflet Maps;
+HTML5, CSS3, Sass, Styled Components, Tailwind CSS, Javascript, JQuery, Typescript, React JS, Blade, Vue, Timeleaf;
 
 Mobile: 
-Android Nativo (Java), React Native;
+Android (Java), React Native;
+
+Queues:
+Laravel queue jobs, RabbitMQ;
+
+Monitoring and logging:
+Laravel Telescope, Papertrail, Sentry, HoneyBadger, Grafana;
 
 Databases: 
 Mysql, Mariadb, Postgres, SQL Server, MogoDB, Realm DB;
 
-Design patterns: POO, SOLID, Domain Driven Design, TDD, MVC, MVVM, Dependency Injection, Abstract Factory, Adapter, Builder, Facade, Singleton, Factory Method;
+Tests tools:
+PHPUnit, Jest;
 
-Knowledge of microservices architecture;
+Design patterns: POO, Abstract Factory, Adapter, Builder, Facade, Singleton, Factory Method, Strategy, Observer;
+
+Proficiency in architectures: MVC, MVVM and micro services;
 
 OWASP Security standards;
+
 
 [Earn $200 on Digital Ocean](https://m.do.co/c/d220028bf161)
 
